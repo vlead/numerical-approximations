@@ -11,4 +11,4 @@
    + [[./procedure.org][Procedure]]
    + [[./further-reading.org][Further Reading]]
 ** Practice Material
-   + [[./experiment.org][Experiment]]
+   + [[./simulation/experiment.org][Experiment]]

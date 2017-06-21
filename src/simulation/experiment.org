@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 <script>
     window.onload = function() {
-        window.location = './../code/simulation/index.html'
+        window.location = './../../code/simulation/index.html'
     }
 </script>
 #+END_HTML
