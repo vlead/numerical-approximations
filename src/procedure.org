@@ -1,0 +1,15 @@
+#+TITLE: Procedure
+#+AUTHOR: Sounak Pradhan
+#+SETUPFILE: ./org-templates/level-0.org
+
+* Procedure
+  + Read the Problem Statement.
+  + Press START to start the experiment
+  + Select the limits of Integration i.e. a and b.
+  + Press OK to save the value of a and b.
+  + Press NEXT to see the execution of the code.
+  + Relavant line in the code is shown here.
+  + The visual simulation of area under curve and output of the code is shown
+    in the right.
+  + Value of Local Variables are shown here.
+  + Output of code is shown here.

@@ -1,0 +1,14 @@
+#+TITLE: Index
+#+AUTHOR: Sounak Pradhan
+#+SETUPFILE: ./org-templates/level-0.org
+
+* Numerical Approximations
+** Reading Material
+   + [[./introduction.org][Introduction]]
+   + [[./theory.org][Theory]]
+   + [[./objective.org][Objective]]
+   + [[./manual.org][Manual]]
+   + [[./procedure.org][Procedure]]
+   + [[./further-reading.org][Further Reading]]
+** Practice Material
+   + [[./experiment.org][Experiment]]

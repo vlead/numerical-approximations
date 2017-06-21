@@ -1,0 +1,7 @@
+#+TITLE: Further Reading
+#+AUTHOR: Sounak Pradhan
+#+SETUPFILE: ./org-templates/level-0.org
+
+* Further Reading
+  + [[http://en.wikipedia.org/wiki/Numerical_integration]]
+  + [[http://en.wikipedia.org/wiki/Numerical_analysis]]
